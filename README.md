@@ -5,5 +5,6 @@
 -->
 🚀 TECH STACK                                         
 [Python] [SQL] [PostgreSQL] [Snowflake] [AWS]
+
 📊 CURRENT FOCUS                                   
 Building robust ETL pipelines and cloud warehouses
